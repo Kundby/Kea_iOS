@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>484241203660-o2sj7sfkf6t7e68hshunri8gu10j49s6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.484241203660-o2sj7sfkf6t7e68hshunri8gu10j49s6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQTwL0qmkg2miwMQiHw-sWhgIGaDLac1M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>484241203660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>akp.kea.Week14-CloudLogin</string>
+	<key>PROJECT_ID</key>
+	<string>fir-hello-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-hello-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:484241203660:ios:6e82cc8fabc348276bbd69</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-hello-ios.firebaseio.com</string>
+</dict>
+</plist>
